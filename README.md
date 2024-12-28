@@ -4,10 +4,14 @@ The system analyzes images to detect people, estimate crowd density, generate he
 ## Execution Guide:
 1. Run the following command line in the terminal:
    ```
-
+   pip install opencv-python numpy matplotlib scipy
    ```
 
-2.
+2. Enter the path of the image whose crowd density you wish to see
+
+3. Enter the path of the folder where you want to save the bounding box, heatmap and overlay image
+
+4. Upon running the code it displays the number of people detected along with 3 images (bounding box, heatmap and overlay)
 
 ## Model Prediction:
 
