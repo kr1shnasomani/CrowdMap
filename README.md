@@ -53,10 +53,4 @@ The project is an advanced solution for analyzing the crowd density in images. T
 - **SciPy** for advanced image filtering and heatmap smoothing.
 - **Matplotlib** for visualizing results, including the original image, heatmap, overlay, and bounding boxes.
 
-#### Potential Applications:
-- **Public Safety**: Monitoring crowd size in real-time to ensure safety at events.
-- **Surveillance**: Analyzing crowd density in security footage.
-- **Urban Planning**: Analyzing crowd behavior in public spaces to optimize the design of buildings or outdoor areas.
-- **Traffic Monitoring**: Detecting pedestrian crowd density near busy intersections or transportation hubs.
-
 The system is ideal for applications where real-time analysis of crowd size and density is crucial, such as in public events, transportation hubs, or urban monitoring.
