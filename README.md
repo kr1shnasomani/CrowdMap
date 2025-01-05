@@ -39,6 +39,7 @@ The system analyzes images and videos to detect people, estimate crowd density, 
 
    Input:
 
+   ![video](https://github.com/user-attachments/assets/9a33aab0-3c0d-41c4-9560-b0e396a649b2)
    
    Output:
 
