@@ -44,15 +44,15 @@ The system analyzes images and videos to detect people, estimate crowd density, 
 
    a. `boundingbox.mp4`
 
-   ![boundingbox]()
+   ![boundingbox](https://github.com/user-attachments/assets/02190277-b587-4dea-9004-cabee338f880)
 
    b. `heatmap.mp4`
 
-   ![heatmap]()
+   ![heatmap](https://github.com/user-attachments/assets/39aa42d0-14d6-4595-88ca-202d28bc8f8b)
 
    c. `overlay.mp4`
 
-   ![overlay]()
+   ![overlay](https://github.com/user-attachments/assets/8dc18ce7-64bc-4e6b-913d-dd0ad0421031)
    
 ## Overview:
 The project is an advanced solution for analyzing the crowd density in images/videos. This project aims to detect people in crowded scenes, estimate crowd density, generate a heatmap representing the concentration of individuals and draw bounding boxes around detected people.
