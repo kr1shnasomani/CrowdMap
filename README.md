@@ -15,23 +15,23 @@ The system analyzes images to detect people, estimate crowd density, generate he
 
 ## Model Prediction:
 
-  Input: 
+  Input Image: 
   
-  ![image](https://github.com/user-attachments/assets/5841f800-759f-4b93-817c-44e5caa710d3)
+  ![image](https://github.com/user-attachments/assets/a7b1ba69-1cf1-46ef-9c5c-d728f8e2b65b)
 
-  Output:
+  Output Image:
 
   a. `boundingbox.jpg`
 
-  ![boundingbox](https://github.com/user-attachments/assets/e8e981c7-4e59-44dc-93f0-53e7b27a71e6)
+  ![boundingbox](https://github.com/user-attachments/assets/18a429f4-edbc-4d1f-bc40-585c6dad80aa)
 
   b. `heatmap.jpg`
 
-  ![heatmap](https://github.com/user-attachments/assets/541ebabf-cef6-4ee6-8d9f-e72489648882)
+  ![heatmap](https://github.com/user-attachments/assets/157b2d72-2e71-4673-a0e7-76b855dd4988)
 
   c. `overlay.jpg`
 
-  ![overlay](https://github.com/user-attachments/assets/a4d7b2e2-f1aa-4d19-9898-ec1d77dbe0c3)
+  ![overlay](https://github.com/user-attachments/assets/69b6a57b-5bdd-459c-8ea5-a0ba57faa889)
    
 ## Overview:
 The project is an advanced solution for analyzing the crowd density in images. This project aims to detect people in crowded scenes, estimate crowd density, generate a heatmap representing the concentration of individuals and draw bounding boxes around detected people.
